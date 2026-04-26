@@ -52,7 +52,7 @@ project/
 ### 1. Clone project
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/Ankitsingh9584/EmployeReview
 cd project
 ```
 
